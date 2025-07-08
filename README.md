@@ -74,17 +74,3 @@ projects: [
   { name: 'chromium-mobile', use: devices['Pixel 5'] }
 ]
 ```
-
----
-
-## 🧠 Notes
-
-- This is a **negative test** that checks proper validation of **public domains like Gmail** during registration.
-- The test includes handling of dynamic elements like modal dialogs and conditional UI flows.
-- Works in Chromium, Firefox, and WebKit.
-
----
-
-## 🪪 License
-
-MIT License
